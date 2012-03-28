@@ -9,5 +9,5 @@ ln -s ~/.vim/custom/.vimrc.after ~/.vimrc.after
 rm ~/.janus
 ln -s ~/.vim/custom/janus ~/.janus
 
-mkdir ~/_backup
-mkdir ~/_temp
+mkdir ~/.vim/_backup
+mkdir ~/.vim/_temp
