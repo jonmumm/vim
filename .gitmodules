@@ -170,3 +170,9 @@
 [submodule "janus/vim/tools/ctrlp"]
 	path = janus/vim/tools/ctrlp
 	url = https://github.com/kien/ctrlp.vim.git
+[submodule "plugins/vim-less"]
+	path = plugins/vim-less
+	url = https://github.com/groenewege/vim-less.git
+[submodule "plugins/vim-powerline"]
+	path = plugins/vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
